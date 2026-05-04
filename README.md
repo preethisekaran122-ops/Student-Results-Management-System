@@ -85,4 +85,4 @@ Arun                 102        380      76.0       B
 
 **S. Preethi**  
 M.Sc. Mathematics — Thiagarajar College, Madurai  
-[LinkedIn](https://www.linkedin.com/in/preethi-sekaran-113019313) | [GitHub](https://github.com/preethisekaran122-ops)
+[LinkedIn](https://www.linkedin.com/in/preethi-sekaran-113019313) | [GitHub](https://github.com/preethisekaran122-ops/Student-Results-Management-System)
